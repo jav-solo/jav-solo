@@ -34,6 +34,4 @@ Here are some ideas to get you started:
   - Mario Kart 8
 - I used to be a professional firefighter
 
-### Contact info:
-- javier@solosoftware.tech
-- [Twitter](https://twitter.com/jav_solo)
+Check out my site and see my profile for contact info!
