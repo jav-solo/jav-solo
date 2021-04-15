@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Currently working on:
 - An app project for adventure motorcyclists
-- [My website](javsolo.codes)
+- Adding tips, tricks ,and thoughts to my site
 
 ### Languages coded:
 - Swift
@@ -34,4 +34,4 @@ Here are some ideas to get you started:
   - Mario Kart 8
 - I used to be a professional firefighter
 
-Check out my site and see my profile for contact info!
+Look left (above on mobile) for site and contact info!
