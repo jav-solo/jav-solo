@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Available for:
 - Native application developement help
-- iOS macOS developement
+- iOS & macOS developement
 - Embedded systems programming
 
 ### Fun facts: 
