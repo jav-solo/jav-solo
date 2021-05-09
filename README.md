@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - C/C++
 
 ### Available for:
-- Native application developement help
+- Native application development help
 - iOS & macOS developement
 - Embedded systems programming
 
@@ -32,6 +32,5 @@ Here are some ideas to get you started:
 - I cannot lose in the following games: 
   - Mario Kart: Double Dash 
   - Mario Kart 8
-- I used to be a professional firefighter
 
 Look left (above on mobile) for site and contact info!
