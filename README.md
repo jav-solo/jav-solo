@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Welcome to the GitHub page of Jav Solo, iOS & macOS engineer
+## Welcome to the GitHub page of Jav Solo, iOS & macOS Engineer, lover of all things 
 
 ### Currently working on:
 - An app project for adventure motorcyclists
@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 - Embedded systems programming
 
 ### Fun facts: 
-- I cannot lose in the following games: 
-  - Mario Kart: Double Dash 
-  - Mario Kart 8
+- I cannot lose at Mario Kart
 
 Look left (above on mobile) for site and contact info!
