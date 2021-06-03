@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Welcome to the GitHub page of Jav Solo, iOS & macOS Engineer, lover of all things 
+## Welcome to the GitHub page of Jav Solo, iOS & macOS Engineer
 
 ### Currently working on:
 - An app project for adventure motorcyclists
@@ -30,5 +30,6 @@ Here are some ideas to get you started:
 
 ### Fun facts: 
 - I cannot lose at Mario Kart
+- Lover of all things  
 
 Look left (above on mobile) for site and contact info!
