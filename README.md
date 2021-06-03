@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Welcome to the GitHub page of Jav Solo, iOS & macOS Engineer
+## Welcome to the GitHub page of Jav Solo
 
 ### Currently working on:
 - An app project for adventure motorcyclists
