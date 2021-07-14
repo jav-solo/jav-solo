@@ -19,13 +19,20 @@ Here are some ideas to get you started:
 - An app project for adventure motorcyclists
 - Adding tips, tricks ,and thoughts to my site
 
+### Learning
+- Emacs
+
+### Languages spoken
+- English
+- Español
+
 ### Languages coded:
 - Swift
 - C/C++
 
 ### Available for:
 - Native application development help
-- iOS & macOS developement
+- iOS & macOS development
 - Embedded systems programming
 
 ### Fun facts: 
