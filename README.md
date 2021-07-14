@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Welcome to the GitHub page of Jav Solo
 
-### Currently working on:
+### Currently working on
 - An app project for adventure motorcyclists
 - Adding tips, tricks ,and thoughts to my site
 
@@ -26,17 +26,16 @@ Here are some ideas to get you started:
 - English
 - Español
 
-### Languages coded:
+### Languages coded
 - Swift
 - C/C++
 
-### Available for:
-- Native application development help
-- iOS & macOS development
+### Available for
+- iOS, macOS, and Linux development
 - Embedded systems programming
 
-### Fun facts: 
-- I cannot lose at Mario Kart
+### Fun facts
+- I have not lost in Mario Kart since Mario Kart 64
 - Lover of all things  
 
 Look left (above on mobile) for site and contact info!
