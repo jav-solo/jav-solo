@@ -32,11 +32,9 @@ Here are some ideas to get you started:
 - C/C++
 
 ### Available for
-- iOS, macOS, and Linux development
-- Embedded systems programming
+- iOS, macOS, and Linux application development
 
-### Fun facts
+### Fun fact
 - I have not lost in Mario Kart since Mario Kart 64
-- Lover of all things  
 
 Look left (above on mobile) for site and contact info!
