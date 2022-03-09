@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ### Learning
 - Metal
+- TDD
 
 ### Languages spoken
 - English
