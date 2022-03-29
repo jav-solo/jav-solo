@@ -37,5 +37,3 @@ Here are some ideas to get you started:
 
 ### Fun fact
 - I have not lost in Mario Kart since Mario Kart 64
-
-Look left (above on mobile) for site and contact info!
