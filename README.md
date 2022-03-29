@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ### Currently working on
 - An app project for adventure motorcyclists
 - A game engine for Apple Platforms
-- Adding tips, tricks ,and thoughts to my site
 
 ### Learning
 - Metal
 - TDD
+- Blender
 
 ### Languages spoken
 - English
