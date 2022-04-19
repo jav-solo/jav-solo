@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Welcome to the GitHub page of Jav Solo
 
 ### Currently working on
-- An app project for adventure motorcyclists
+- An iOS app project for adventure motorcyclists
 - A game engine for Apple Platforms
 
 ### Learning
