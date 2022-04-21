@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - Swift
 - C/C++
 
-### Available for
+### Experience in
 - iOS, macOS, and Linux application development
 
 ### Fun fact
