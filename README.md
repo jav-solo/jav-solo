@@ -16,12 +16,10 @@ Here are some ideas to get you started:
 ## Welcome to the GitHub page of Jav Solo
 
 ### Currently working on
-- An iOS app project for adventure motorcyclists
 - A game engine for Apple Platforms
 
 ### Learning
 - Metal
-- TDD
 - Blender
 
 ### Languages spoken
@@ -30,10 +28,11 @@ Here are some ideas to get you started:
 
 ### Languages coded
 - Swift
+- Objective-C
 - C/C++
 
 ### Experience in
-- iOS, macOS, and Linux application development
+- iOS & macOS application development
 
 ### Fun fact
 - I have not lost in Mario Kart since Mario Kart 64
