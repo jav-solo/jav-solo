@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 - iOS & macOS application development
 
 ### Fun fact
-- I have not lost in Mario Kart since Mario Kart 64
+- Undefeated in Mario Kart since Mario Kart 64
