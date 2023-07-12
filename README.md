@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Welcome to the GitHub page of Jav Solo
-Professional software engineer
-
+# Welcome to the GitHub page of Jav Solo
 
 ### Currently working on
 - Game development skills 👾
