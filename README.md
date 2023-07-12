@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ## Welcome to the GitHub page of Jav Solo
+Professional software engineer
+
 
 ### Currently working on
-- Game development skills
+- Game development skills 👾
 
 ### Learning
 - SpriteKit
