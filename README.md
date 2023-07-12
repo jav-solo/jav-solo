@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 ## Welcome to the GitHub page of Jav Solo
 
 ### Currently working on
-- A game engine for Apple Platforms
+- Game development skills
 
 ### Learning
-- Metal
-- Blender
+- SpriteKit
 
 ### Languages spoken
 - English
