@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 ### Experience in
 - iOS & macOS application development
+- Framework Development
 
 ### Fun fact
 - Undefeated in Mario Kart since Mario Kart 64
