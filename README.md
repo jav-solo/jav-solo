@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 - Framework Development
 
 ### Fun fact
-- Undefeated in Mario Kart since Mario Kart 64
+- Undefeated in Mario Kart since 1994
