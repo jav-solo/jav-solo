@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ### Learning
 - SpriteKit
+- GameplayKit
 - Unity
 
 ### Languages spoken
