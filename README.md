@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 - GameplayKit
 - Unity
 
-### Languages spoken
-- English
-- Español
-
 ### Languages coded
 - Swift
 - Objective-C
