@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ### Currently working on
 - Cool shtuff at &#63743;
-- Game development skills 👾
 
 ### Learning
-- SpriteKit
-- GameplayKit
-- Unity
+- Game development skills 👾
+  - Unity
+  - GameplayKit
+  - SpriteKit
 
 ### Languages coded
 - Swift
