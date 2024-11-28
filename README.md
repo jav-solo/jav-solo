@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 - Cool shtuff at &#63743;
 
 ### Learning
-- Game development skills 👾
-  - Unity
-  - GameplayKit
+- Game development 👾
   - SpriteKit
+  - GameplayKit
 
 ### Languages coded
 - Swift
