@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Welcome to the GitHub page of Jav Solo
 
 ### Currently working on
-- Cool shtuff at &#63743;
+- Cool 🛜 shtuff at &#63743;
 
 ### Learning
 - Game development 👾
