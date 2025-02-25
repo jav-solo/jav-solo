@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 - C/C++
 
 ### Experience in
-- iOS & macOS apps
-- Frameworks
-- Daemons
+- iOS & macOS app develoment
+- Framework development
+- UX Design
 
 ### Fun fact
 - Undefeated in Mario Kart since 1994
