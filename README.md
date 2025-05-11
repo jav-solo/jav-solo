@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Welcome to the GitHub page of Jav Solo
 
 ### Currently working as
-- iOS Engineer @ Fieldwire
+- iOS Engineer @Fieldwire👷🏼‍♂️
 
 ### Learning
 - Game development 👾
