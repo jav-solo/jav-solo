@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 ### Currently working as
 - iOS Engineer at Fieldwire👷🏼‍♂️
 
-### Learning
-- Game development 👾
-  - SpriteKit
-  - GameplayKit
+### Personal Projects
+- SpriteKit Video game 👾
+- iOS Apps
 
 ### Languages coded
 - Swift
