@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### Currently working as
 - iOS Engineer at Fieldwire👷🏼‍♂️
 
-### Personal Projects
-- SpriteKit Video game 👾
+### Projects
+- SpriteKit game 👾
 - iOS Apps
 
 ### Languages coded
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 - C/C++
 
 ### Experience in
-- iOS & macOS app develoment
+- App develoment
 - Framework development
-- UX Design
+- UX design
 
 ### Fun fact
 - Undefeated in Mario Kart since 1994
