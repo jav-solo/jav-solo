@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Welcome to the GitHub page of Jav Solo
 
 ### Currently working as
-- iOS Engineer at Fieldwire👷🏼‍♂️
+- Apple Platform Engineer
 
 ### Projects
 - SpriteKit game 👾
