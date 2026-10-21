@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Welcome to the GitHub page of Jav Solo
 
 ### Currently working as
-- Apple Platform Engineer
+- Freelancer and consultant
 
 ### Projects
 - SpriteKit game 👾
