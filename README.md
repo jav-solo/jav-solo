@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 
 # Welcome to the GitHub page of Jav Solo
 
-### Currently working as
-- Freelancer and consultant
+### Currently working on
+- Indie Projects
+- Freelancing/Consulting
 
 ### Projects
-- SpriteKit game 👾
-- iOS Apps
+- Ave Maria: Rosary app
+- Unannounced SpriteKit game 👾🤓
 
 ### Languages coded
 - Swift
