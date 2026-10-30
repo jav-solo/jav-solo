@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 # Welcome to the GitHub page of Jav Solo
 
 ### Currently working on
-- Indie Projects
-- Freelancing/Consulting
+- Freelancing & consulting
 
 ### Projects
 - Ave Maria: Rosary app
