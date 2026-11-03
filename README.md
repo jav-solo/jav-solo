@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ### Projects
 - Ave Maria: Rosary app
+- Hand App
 - Unannounced SpriteKit game 👾🤓
 
 ### Languages coded
