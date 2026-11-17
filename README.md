@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - Freelancing & consulting
 
 ### Projects
-- Ave Maria: Rosary app
 - Hand App
 - Unannounced SpriteKit game 👾🤓
 
